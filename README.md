@@ -1,2 +1,2 @@
 Simple BudgetApp
-My personal app - Budget App. Using onlu js, sass(css) and html.
+My personal app - Budget App. Using only js, sass(css) and html.
